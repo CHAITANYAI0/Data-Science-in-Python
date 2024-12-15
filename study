@@ -1,0 +1,9 @@
+Type and Sequences - 
+
+str
+Nonetype
+int
+float
+function
+ x = (1,'a',2,'b') -> tuple - not mutable
+ x  = [1,'a',2,'b'] -> list - mutable
